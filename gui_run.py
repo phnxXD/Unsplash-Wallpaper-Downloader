@@ -21,9 +21,9 @@ def start_script():
     [-] Version: {script_version}
     --------
     [!] ABOUT CODER:
-    [-] ALIILAPRO, Programmer and developer from IRAN.
-    [-] Website : aliilapro.github.io
-    [-] Telegram : aliilapro
+    [-] phnxXD, Programmer and developer from INDIA.
+    [-] Website : phnxXD
+    [-] Telegram : phnxXD
     --------
     ''')
 
