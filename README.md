@@ -20,8 +20,8 @@
 # How to run 🏃 
 
 ## Run the GUI version script:
-   ```bash
-   python gui_run.py
+    ```bash
+    python gui_run.py
 
 🎉 The GUI will open, allowing you to select the download directory and the number of wallpapers to download.
 
@@ -31,8 +31,8 @@
 ## Run the command line version  version script:
  
 🖥️ Run the script:
-   `bash
-   python main.py`
+    ```bash
+    python main.py
 🔄 Follow the prompts in the command line to specify the number of wallpapers to download and the download directory.
 
 📁 Once the script finishes, you'll find the downloaded wallpapers in the specified directory.
