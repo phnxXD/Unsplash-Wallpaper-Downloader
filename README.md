@@ -20,8 +20,9 @@
 # How to run 🏃 
 
 ## Run the GUI version script:
-   `bash
-   python gui_run.py`
+   ```bash
+   python gui_run.py
+
 🎉 The GUI will open, allowing you to select the download directory and the number of wallpapers to download.
 
 🚀 Click the "Generate and Download" button to initiate the download process.
