@@ -23,7 +23,7 @@
 
    Watch in wonder as the GUI unfolds before your eyes, allowing you to handpick your wallpaper delights! 🧙✨
 
-   Click the "Summon!" button to kickstart the magical download process.
+   Click the "Generate!" button to kickstart the magical download process.
 
    Once the incantation is complete, your precious wallpapers will reside in the designated treasure trove.
 
