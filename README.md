@@ -1,6 +1,6 @@
-# Unsplash-Wallpaper-Downloader
-📸 This Python script allows you to effortlessly download high-quality wallpapers from Unsplash.com. 
-# 🌄 Unsplash Wallpaper Downloader
+
+```markdown
+# Unsplash Wallpaper Downloader
 
 📸 This Python script allows you to effortlessly download high-quality wallpapers from Unsplash.com.
 
@@ -16,24 +16,27 @@
 2. 💻 Install the required dependencies:
    ```bash
    pip install requests
+   ```
+   
+3. 🎉 **Run the GUI version script:**
+   ```bash
+   python gui_run.py
+   ```
 
-# How to run 🏃 
+   The GUI will open, allowing you to select the download directory and the number of wallpapers to download.
 
-## Run the GUI version script:
-    ```bash
-    python gui_run.py
+   Click the "Generate and Download" button to initiate the download process.
 
-🎉 The GUI will open, allowing you to select the download directory and the number of wallpapers to download.
+   Once the script finishes, you'll find the downloaded wallpapers in the specified directory.
 
-🚀 Click the "Generate and Download" button to initiate the download process.
+4. 🔄 **Run the command line version script:**
+   ```bash
+   python main.py
+   ```
 
-📁 Once the script finishes, you'll find the downloaded wallpapers in the specified directory.
-## Run the command line version  version script:
- 
-🖥️ Run the script:
-    ```bash
-    python main.py
-🔄 Follow the prompts in the command line to specify the number of wallpapers to download and the download directory.
+   Follow the prompts in the command line to specify the number of wallpapers to download and the download directory.
 
-📁 Once the script finishes, you'll find the downloaded wallpapers in the specified directory.
+   Once the script finishes, you'll find the downloaded wallpapers in the specified directory.
+```
 
+This README provides clear instructions on how to use both the GUI and command line versions of the script, along with the necessary commands and explanations.
